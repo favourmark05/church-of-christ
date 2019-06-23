@@ -1,0 +1,31 @@
+.slide1{
+    background-image: linear-gradient(rgb(17,17,17,0.8),rgb(17,17,17,0.8),rgb(17,17,17,0.8)), url(images/church\ leaders.jpg);
+    background-size: cover;
+    height:670px;
+    
+}
+.slide2{
+    background-image: linear-gradient(rgba(10, 10, 10, 0.3),rgb(10,10,10,0.3),rgba(10, 10, 10, 0.3)), url(images/elders\ and\ wife.jpg);
+    background-size: cover;
+    height: 670px;
+}
+.slide3{
+    background-image: linear-gradient(rgba(10, 10, 10, 0.3),rgb(10,10,10,0.3),rgba(10, 10, 10, 0.3)), url(images/elders\ wife\ and\ ministers\ wife.jpg);
+    background-size: cover;
+    height: 670px;
+}
+.slide4{
+    background-image: linear-gradient(rgba(10, 10, 10, 0.3),rgb(10,10,10,0.3),rgba(10, 10, 10, 0.3)), url(images/decons\ wife\ and\ minister\ wife.jpg);
+    background-size: cover;
+    height: 670px;
+}
+.slide5{
+    background-image: linear-gradient(rgba(10, 10, 10, 0.3),rgb(10,10,10,0.3),rgba(10, 10, 10, 0.3)), url(images/deacon\ elders\ wife.jpg);
+    background-size: cover;
+    height: 670px;
+}
+h5{
+    color: rgb(255, 255, 255) !important;
+    font-size: 50px !important;
+    font-weight: bolder !important;
+}

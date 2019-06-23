@@ -1,0 +1,123 @@
+body, html {
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+}
+.ho:hover{
+    color: white !important;
+    background-color: red !important;
+}
+.nav-link{
+    padding-right: 30px !important;
+}
+.nv{
+    background-color:rgb(42, 121, 45);
+    padding: 10px !important; 
+    border-radius: 5px;
+    margin-right: 10px !important;
+    /* text-align: center !important; */
+}
+
+/* hr tag */
+.separator>*{
+    display: inline-block;
+    vertical-align: middle;
+  }
+  .separator {
+      text-align: center;
+      border: 0;
+      white-space: nowrap;
+      display: block;
+      overflow: hidden;
+      padding: 0;
+      margin: 0;
+  }
+  .separator:before, .separator:after {
+      content: "";
+      height: 5px;
+      width: 50%;
+      background-color: rgb(247, 12, 12);
+      margin: 0 5px 0 5px;
+      display: inline-block;
+      vertical-align: middle;
+      border-radius: 100%;
+  }
+  .separator:before {
+      margin-left: -100%;
+  }
+  .separator:after {
+      margin-right: -100%;
+  }
+  .spn{
+      font-weight: bolder;
+      color: black;
+      font-size: 30px;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .hr{
+      margin-top: 30px;
+      margin-bottom: 30px;
+  }
+
+  /* about coc */
+
+.coc{
+    color: rgb(173, 16, 16);
+}
+/* minister image */
+.minister{
+    border-radius: 100%;
+    height: 250px;
+    width: 200px;
+}
+.mis{
+    /* margin-top: 40px; */
+    justify-content: center !important;
+    /* float: right; */
+    position: absolute !important;
+}
+
+/* SERMON SECTION */
+#sermon{
+    margin-top:20%;
+    position: static;
+}
+
+
+
+.p1{
+  background-color: green;
+  /* border-top: 5px solid #4CAF50; */
+  border-bottom: 5px solid #4CAF50;
+}
+
+/* ssermon paralax */
+.paralax{
+  background-image: url("IMAGES/b2.jpg");
+  height: 700px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.crd{
+    padding-top: 70px;
+}
+
+/* second card in the event section */
+.cd2{
+    padding-top: 30px;
+}
+
+/* upcoming event banner */
+
+.ue1{
+    padding-bottom: 20px;
+}
+/* CONTACT LOCATION */
+#contact{
+    background-color: darkslategrey;
+}
+address{
+    color: white;
+}
